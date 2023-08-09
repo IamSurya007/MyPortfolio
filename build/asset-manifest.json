@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2c776f26.css",
+    "main.js": "/static/js/main.2f325f6a.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/chadwick.jpg": "/static/media/chadwick.0250c2ca5117479d809d.jpg",
+    "static/media/vizagTour1.jpg": "/static/media/vizagTour1.f8a2fdc0524c2ced1de6.jpg",
+    "static/media/vizagTour2.jpg": "/static/media/vizagTour2.0c3cea29242485f8eb1d.jpg",
+    "index.html": "/index.html",
+    "main.2c776f26.css.map": "/static/css/main.2c776f26.css.map",
+    "main.2f325f6a.js.map": "/static/js/main.2f325f6a.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c776f26.css",
+    "static/js/main.2f325f6a.js"
+  ]
+}
