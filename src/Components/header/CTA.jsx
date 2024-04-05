@@ -1,6 +1,8 @@
 import React from 'react'
 
 const CTA = () => {
+  
+
   return (
     <div>
         <a href='{CV}' className='btn'>Download CV</a>

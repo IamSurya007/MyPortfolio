@@ -2,8 +2,7 @@ import React from 'react'
 import './Header.css'
 import CTA from './CTA.jsx'
 import HeaderSocials from './HeaderSocials'
-import vizagTour1 from '../../assets/vizagTour1.jpg';
-// import blackPanther from '../../assets/blackPanther.jpg';
+import surya from '../../assets/Surya.jpeg'
 
 const Header = () => {
   return (
@@ -15,7 +14,7 @@ const Header = () => {
       <CTA/>
       <HeaderSocials/>
       <div>
-        <img className='me' src={vizagTour1} alt='wakandaForever'/>
+        <img className='me' src={surya} alt='wakandaForever'/>
       </div>
     </div>
     </header>

@@ -14,7 +14,7 @@ const About = () => {
       <div className="container about_container">
         <div className="about_me">
           <div className="about_me-image">
-            <img id="image" src={vizagTour2} alt="wakandaForever" />
+            <img id="image" src={vizagTour2} alt="" />
           </div>
         </div>
         <div className="about_content">
@@ -32,7 +32,7 @@ const About = () => {
             <article className="about_card">
               <GiFilmProjector className="about_icon" />
               <h5>Project</h5>
-              <small>Zero Projects</small>
+              <small>Three Projects</small>
             </article>
           </div>
           <p>And as you can see Iam not dead</p>

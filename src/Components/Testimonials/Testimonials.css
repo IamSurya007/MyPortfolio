@@ -1,5 +1,7 @@
 .container.testimonials_container{
     width: 40%;
+    height: 238px;
+    overflow-y: auto;
 }
 .client_avatar{
     width: 4rem;
