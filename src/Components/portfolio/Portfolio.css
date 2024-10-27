@@ -29,3 +29,18 @@
     gap: 1rem;
     margin-bottom: 1rem;
 }
+
+
+/*========MADIA QUERIES(SMALL DEVICES)======*/
+@media  screen and (max-width: 600px){
+    .portfolio_container{
+        display: grid;
+        justify-content: center;
+        grid-template-columns: repeat(1, 1fr);
+        gap: 2.5rem;
+    }
+    .portfolio_items{
+        display: grid;
+        justify-content: center;
+    }
+}

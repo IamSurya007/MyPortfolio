@@ -3,6 +3,7 @@ import './Header.css'
 import CTA from './CTA.jsx'
 import HeaderSocials from './HeaderSocials'
 import surya from '../../assets/Surya.jpeg'
+import portfolio from '../../assets/portfolio1.jpg'
 
 const Header = () => {
   return (
@@ -14,7 +15,7 @@ const Header = () => {
       <CTA/>
       <HeaderSocials/>
       <div>
-        {/* <img className='me' src={surya} alt='wakandaForever'/> */}
+        <img className='me' src={portfolio} alt='wakandaForever'/>
       </div>
     </div>
     </header>

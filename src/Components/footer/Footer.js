@@ -6,7 +6,7 @@ import {IoLogoTwitter} from 'react-icons/io'
 const Footer = () => {
   return (
     <footer>
-      <a href='#' className='footer_logo'>BEN STOKES</a>
+      <a href='#' className='footer_logo'>SURYA PILLUTLA</a>
 
       <ul className='permalinks'>
         <li><a href='#'>Home</a></li>

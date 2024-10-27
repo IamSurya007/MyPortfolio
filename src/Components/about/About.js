@@ -5,6 +5,8 @@ import { FiUsers } from "react-icons/fi";
 import { GiFilmProjector } from "react-icons/gi";
 import vizagTour2 from "../../assets/vizagTour2.jpg";
 // import chadwick from '../../assets/chadwick.jpg';
+import portfolio from '../../assets/portfolio.jpg'
+
 
 const About = () => {
   return (
@@ -14,7 +16,7 @@ const About = () => {
       <div className="container about_container">
         <div className="about_me">
           <div className="about_me-image">
-            {/* <img id="image" src={vizagTour2} alt="" /> */}
+            <img id="image" src={portfolio} alt="" />
           </div>
         </div>
         <div className="about_content">
