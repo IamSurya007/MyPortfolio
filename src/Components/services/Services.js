@@ -9,9 +9,42 @@ const Services = () => {
       <h2>Services</h2>
 
       <div className="container service_container">
+      <article className="service">
+  <div className="service_head">
+    <h3>Graphic Designing</h3>
+  </div>
+
+  <ul className="service_list">
+    <li>
+      <BiCheck className="service_list-icon" />
+      <p>
+        Designed branding assets, social media creatives, and marketing visuals tailored to various platforms.
+      </p>
+    </li>
+    <li>
+      <BiCheck className="service_list-icon" />
+      <p>
+        Created original graphics, illustrations, and multimedia content to enhance project presentation.
+      </p>
+    </li>
+    <li>
+      <BiCheck className="service_list-icon" />
+      <p>
+        Improved visual identity and user engagement by applying design principles effectively.
+      </p>
+    </li>
+    <li>
+      <BiCheck className="service_list-icon" />
+      <p>
+        Showcased high-quality design work including logos, posters, UI mockups, and marketing materials in my portfolio.
+      </p>
+    </li>
+  </ul>
+</article>
+
         <article className="service">
           <div className="service_head">
-            <h3>UX/UI Design</h3>
+            <h3>UI/UX Design</h3>
           </div>
 
           <ul className="service_list">
@@ -59,8 +92,7 @@ const Services = () => {
             <li>
               <BiCheck className="service_list-icon" />
               <p>
-                Utilizing HTML, CSS, JavaScript, and frameworks like React or
-                Angular.
+                Utilizing HTML, CSS, JavaScript.
               </p>
             </li>
             <li>
@@ -79,42 +111,7 @@ const Services = () => {
             </li>
           </ul>
         </article>
-        <article className="service">
-          <div className="service_head">
-            <h3>Content Creation</h3>
-          </div>
-
-          <ul className="service_list">
-            <li>
-              <BiCheck className="service_list-icon" />
-              <p>
-                Crafting compelling content for various platforms to exhibit my
-                writing skills. .
-              </p>
-            </li>
-            <li>
-              <BiCheck className="service_list-icon" />
-              <p>
-                Creating graphics, videos, and multimedia assets for portfolio
-                enhancement.
-              </p>
-            </li>
-            <li>
-              <BiCheck className="service_list-icon" />
-              <p>
-                Increasing brand visibility and audience engagement through
-                content creation.
-              </p>
-            </li>
-            <li>
-              <BiCheck className="service_list-icon" />
-              <p>
-                Showcasing professionally written articles, visually appealing
-                graphics, and captivating videos in my portfolio
-              </p>
-            </li>
-          </ul>
-        </article>
+        
       </div>
     </section>
   );

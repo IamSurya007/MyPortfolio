@@ -24,20 +24,19 @@ const About = () => {
             <article className="about_card">
               <CgAwards className="about_icon" />
               <h5>Experience</h5>
-              <small>No Working Experiance</small>
+              <small>Nine months</small>
             </article>
             <article className="about_card">
               <FiUsers className="about_icon" />
               <h5>Clients</h5>
-              <small>No Clients</small>
+              <small>Two Clients</small>
             </article>
             <article className="about_card">
               <GiFilmProjector className="about_icon" />
               <h5>Project</h5>
-              <small>Three Projects</small>
+              <small>Four Projects</small>
             </article>
           </div>
-          <p>And as you can see Iam not dead</p>
           <a href="#contact" className="btn btn-primary">
             Lets Talk
           </a>

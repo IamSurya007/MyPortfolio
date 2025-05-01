@@ -38,50 +38,49 @@ const Experiance = () => {
               <small className="text-light">Experianced</small>
               </div>
             </article>
-            <article className="experiance_details">
-            <BsPatchCheckFill className="experiance_details-icon"/>
-              <div>
-              <h4>React</h4>
-              <small className="text-light">Experianced</small>
-              </div>
-            </article>
           </div>
         </div>
         <div className="experiance_backend">
-          <h3>Backend Developement</h3>
+          <h3>Graphic and UI/UX Designing</h3>
           <div className="experiance_content">
             <article className="experiance_details">
             <BsPatchCheckFill className="experiance_details-icon"/>
              <div>
-             <h4>MongoDB</h4>
+             <h4>Logo Design</h4>
               <small className="text-light">Experianced</small>
              </div>
             </article>
             <article className="experiance_details">
             <BsPatchCheckFill className="experiance_details-icon"/>
               <div>
-              <h4>PHP</h4>
+              <h4>Canva</h4>
               <small className="text-light">Experianced</small>
               </div>
             </article>
             <article className="experiance_details">
             <BsPatchCheckFill className="experiance_details-icon"/>
               <div>
-                <h4>MySQL</h4>
+                <h4>PhotoShop</h4>
                 <small className="text-light">Experianced</small>
               </div>
             </article>
             <article className="experiance_details">
               <BsPatchCheckFill className="experiance_details-icon"/>
               <div>
-              <h4>NodeJS</h4>
+              <h4>Video Editing</h4>
               <small className="text-light">Experianced</small>
               </div>
             </article>
             <article className="experiance_details">
             <BsPatchCheckFill className="experiance_details-icon"/>
               <div>
-              <h4>Python</h4>
+              <h4>Figma</h4>
+              <small className="text-light">Experianced</small>
+              </div>
+            </article><article className="experiance_details">
+            <BsPatchCheckFill className="experiance_details-icon"/>
+              <div>
+              <h4>CapCut</h4>
               <small className="text-light">Experianced</small>
               </div>
             </article>
