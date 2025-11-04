@@ -11,12 +11,12 @@
 }
 
 :root {
-  --color-bg: #0b0c10;                          /* deep space */
-  --color-bg-variant: #12121f;                 /* subtle panel contrast */
-  --color-primary: #ffe81f;                    /* Star Wars crawl yellow */
-  --color-primary-variant: rgba(255, 232, 31, 0.25);  /* subtle glow */
-  --color-white: #f5f5f5;                      /* clean readable text */
-  --color-light: rgba(245, 245, 245, 0.6);     /* for muted UI */
+    --color-bg: #1f1f38;
+    --color-bg-variant: #2c2c6c;
+    --color-primary: #4db5ff;
+    --color-primary-variant: rgba(77, 181, 255, 0.4);
+    --color-white: #fff;
+    --color-light: rgba(255, 255, 255, 0.6);
 
   --transition: all 400ms ease;
 
